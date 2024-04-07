@@ -1,2 +1,2 @@
-# Minh-Nghia
+# Web project
 =)
